@@ -1,5 +1,7 @@
-# This is a demo of axios based on react
+#Github User Search
 
-avatar_url: icon url<br>
-html_url: user personal page<br>
-login: user name 
+###This is an exercise of axios based on react
+
+avatar_url: icon url  
+html_url: user personal page  
+login: user name  
