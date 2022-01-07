@@ -4,10 +4,6 @@ import List from './components/List'
 
 export default class App extends Component {
 
-    updateAppState = (stateObj) => {
-        this.setState(stateObj)
-    }
-
     render() {
         return (
             <div className="container">
